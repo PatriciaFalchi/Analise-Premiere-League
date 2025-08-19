@@ -14,8 +14,6 @@ O projeto surgiu a partir da ideia de um amigo que realiza análises esportivas 
 
 - **Manipulação de Dados com Pandas**: Processamento e limpeza dos dados extraídos para garantir precisão e consistência nas informações apresentadas.
 
-- **Estilização com Pandas Styler**: Aplicação de estilos personalizados às tabelas geradas, incluindo a remoção do índice, para melhorar a apresentação dos dados.
-
 - **Versionamento com Git**: Controle de versão do projeto utilizando Git, com os arquivos armazenados no repositório GitHub [PatriciaFalchi/Analise-Premiere-League](https://github.com/PatriciaFalchi/Analise-Premiere-League).
 
 ## 🧑‍💻 Ambiente de Desenvolvimento
