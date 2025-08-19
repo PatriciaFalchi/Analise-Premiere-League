@@ -24,4 +24,4 @@ O código foi desenvolvido no Visual Studio Code (VS Code), utilizando a extens�
 
 - `analise.ipynb`: Notebook contendo a primeira versão do código de análise e processamento dos dados.
 - `analise_2.ipynb`: Versão final com a análise apresentada em HTML.
-- `index.html`: Arquivo HTML gerado com a tabela apresnetando os dados análisados.
+- `index.html`: Arquivo HTML gerado com a tabela apresnetando os dados análisados. https://patriciafalchi.github.io/Analise-Premiere-League/
