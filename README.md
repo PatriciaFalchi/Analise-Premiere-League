@@ -5,6 +5,8 @@ Este projeto foi desenvolvido com o objetivo de treinar e aprimorar conhecimento
 ## 🧠 Objetivo
 
 O projeto surgiu a partir da ideia de um amigo que realiza análises esportivas e solicitou informações específicas sobre a Premier League. O objetivo principal foi coletar, processar e apresentar esses dados de forma estruturada.
+O projeto surgiu a partir da ideia de um amigo que realiza análises esportivas e solicitou informações específicas sobre a Premier League. O objetivo principal foi coletar, processar e apresentar a quantidade de gols marcados pelos times em casa e fora.
+
 
 ## 🛠️ Técnicas Utilizadas
 
